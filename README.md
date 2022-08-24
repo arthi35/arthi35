@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 💬 Ask me about **ReactJS,Javascript,CSS,**
+- 💬 Ask me about **ReeactJS,Javascript,CSS,**
 
 - 📫 How to reach me **arthimba35@gmail.com**
 
@@ -21,4 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthi35&show_icons=true&locale=en" alt="arthi35" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arthi35&" alt="arthi35" /></p>
-
