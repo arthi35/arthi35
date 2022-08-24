@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 💬 Ask me about **ReeactJS,Javascript,CSS,**
+- 💬 Ask me about **ReactJS,Javascript,CSS,**
 
 - 📫 How to reach me **arthimba35@gmail.com**
 
 - ⚡ Fun fact **Listening to the motivational songs**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:Linkedin</h3>
 <p align="left">
 </p>
 
