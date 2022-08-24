@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **Listening to the motivational songs**
 
-<h3 align="left">Connect with me:Linkedin</h3>
+
 <p align="left">
 </p>
 
